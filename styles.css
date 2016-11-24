@@ -1,0 +1,53 @@
+body {
+	margin: 20px;
+	font-family: Avenir; 
+}
+
+nav {
+	font-style: italic;
+}
+
+a {
+	font-style: normal;
+}
+
+header {
+	text-align: center;
+}
+
+header ul li {
+	display: inline-block;
+}
+
+hr {
+	height: 20px;
+	background-color: #ffd1cc;
+}
+
+img {
+	float: right;
+	height: 180px;
+	border-radius: 10%;
+}
+
+section {
+	margin: 40px;
+}
+
+section hr {
+	background-color: #ffa399;
+	height: 2px;
+}
+
+footer ul li {
+	display: inline-block;
+}
+
+footer ul {
+	text-align: center;
+}
+
+h1 {
+	font-size: 55px; 
+	font-style: italic;
+}
