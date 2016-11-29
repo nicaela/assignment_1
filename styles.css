@@ -12,6 +12,7 @@ div nav li {
 	border-right:  solid;
 	border-right-width: thin;
 	border-right-color: black;
+	padding: 10px 10px 10px; 
 }
 
 a {
