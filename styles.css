@@ -12,7 +12,11 @@ div nav li {
 	border-right:  solid;
 	border-right-width: thin;
 	border-right-color: black;
-	padding: 10px 10px 10px; 
+	padding: 0px 10px 0px; 
+}
+
+div nav li:last-child {
+	border-right: none;
 }
 
 a {
