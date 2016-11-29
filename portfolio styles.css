@@ -1,0 +1,69 @@
+body {
+	margin: 20px;
+	font-family: Avenir; 
+}
+
+nav {
+	font-style: italic;
+}
+	
+nav li {
+	border-spacing: 10px;
+	border-right:  solid;
+	border-right-width: thin;
+	border-right-color: black;
+}
+
+a {
+	font-style: normal;
+}
+
+header {
+	text-align: center;
+}
+
+header ul li {
+	display: inline-block;
+}
+
+hr {
+	height: 20px;
+	background-color: #ffd1cc;
+}
+
+img {
+	float: left;
+	width: 200px;
+}
+
+section {
+	margin: 60px;
+	text-align: right;
+}
+
+section hr {
+	background-color: #ffa399;
+	height: 2px;
+}
+
+section ul {
+	text-align: left;
+	text-indent: 20px;
+}
+
+footer ul li {
+	display: inline-block;
+}
+
+footer ul {
+	text-align: center;
+}
+
+h1 {
+	font-size: 55px; 
+	font-style: italic;
+}
+
+h3 {
+	font-style: italic;
+}
