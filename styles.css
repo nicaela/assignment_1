@@ -7,6 +7,13 @@ nav {
 	font-style: italic;
 }
 
+div nav li {
+	border-spacing: 10px;
+	border-right:  solid;
+	border-right-width: thin;
+	border-right-color: black;
+}
+
 a {
 	font-style: normal;
 }
@@ -30,8 +37,19 @@ img {
 	border-radius: 10%;
 }
 
+div img {
+	float: left;
+	width: 200px;
+	height: auto;
+}
+
 section {
 	margin: 40px;
+}
+
+div section {
+	margin: 60px;
+	text-align: right;
 }
 
 section hr {
@@ -49,5 +67,9 @@ footer ul {
 
 h1 {
 	font-size: 55px; 
+	font-style: italic;
+}
+
+h3 {
 	font-style: italic;
 }
